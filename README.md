@@ -1,0 +1,2 @@
+# swgit
+starting with git
